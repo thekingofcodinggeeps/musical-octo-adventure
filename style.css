@@ -1,0 +1,17 @@
+body{
+    background-image: url('https://i.postimg.cc/sDQDfTC9/bg.jpg');
+}
+
+canvas{
+    border: ridge orange 8px;
+    box-shadow: 5px 5px 18px;
+}
+
+.heading{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+#note{
+    font-family: comic sans ms;
+}
